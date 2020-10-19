@@ -1,0 +1,6 @@
+name: env_better
+channels:
+  - conda-forge
+  - terradue
+dependencies:
+  - ipykernel
