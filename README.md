@@ -6,7 +6,7 @@ The focus of the exercise would be to find a convenient way of exploitation of t
 
 Example: Overlay of interferometric phase + shake map + EQ epicenter for the Earthquake occurred on Nov 12, 2017 Mw 7.3 on the Iran-Iraq border region. This visualisation has been produced "offline", by downloading the interferogram results from the infohub and the ShakeMap + epicenter files as .kml from the USGS webpage
 
-![image info](./image2020-7-27_15-50-55.png)
+![image info](.image2020-7-27_15-50-55.png)
 
 ## Run the notebook on Binder
 
