@@ -8,6 +8,12 @@ Example: Overlay of interferometric phase + shake map + EQ epicenter for the Ear
 
 ![image info](.image2020-7-27_15-50-55.png)
 
+## Information about the event:
+
+USGS event page: https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg/executive
+
+Event shakemap downloads: https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg/shakemap/intensity
+
 ## Run the notebook on Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ec-better/hackathon-2020-ETHZ/master?urlpath=lab)
