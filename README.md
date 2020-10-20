@@ -10,9 +10,15 @@ Example: Overlay of interferometric phase + shake map + EQ epicenter for the Ear
 
 ## Information about the event:
 
-USGS event page: https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg/executive
+**M 6.2 - Vanuatu**
 
-Event shakemap downloads: https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg/shakemap/intensity
+2020-09-06 02:59:16 (UTC)
+17.156°S 167.532°E
+10.0 km depth
+
+USGS event page: https://earthquake.usgs.gov/earthquakes/eventpage/us7000birm/executive
+
+See the notebook us7000birm.ipynb to get started
 
 ## Run the notebook on Binder
 
@@ -52,7 +58,6 @@ docker-compose up
 ```
 
 Open a browser window at the address http://0.0.0.0:9005 or http://127.0.0.1:9005 and run the notebook
-
 
 ## Additional guidelines
 
