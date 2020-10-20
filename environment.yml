@@ -8,3 +8,5 @@ dependencies:
   - numpy
   - matplotlib
   - ipykernel
+  - requests
+  - shapely
